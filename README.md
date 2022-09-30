@@ -1,3 +1,3 @@
 # Python_3_PyQt5_DEMO
 Простейший пример оконной программы на Python 3 c PyQt5
-![Screenshot](main.png)
+![Screenshot](srcreenshot.png)
